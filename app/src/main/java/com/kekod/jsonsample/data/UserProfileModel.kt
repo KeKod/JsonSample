@@ -15,5 +15,6 @@ data class UserProfileModel(
     val user_name: String,
     val user_middle_name: String,
     val user_surname: String,
-    val user_profile_img_url: String
+    val user_profile_img_url: String,
+    val user_title: String?
 )
