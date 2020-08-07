@@ -1,6 +1,7 @@
 package com.kekod.jsonsample.data
 
 import com.kekod.jsonsample.enums.ReactionType
+import java.util.*
 
 
 /**       Code with ❤  ´• ل •`   ❤
@@ -14,6 +15,7 @@ import com.kekod.jsonsample.enums.ReactionType
  */
 data class LinkedInRepoModel(
     val share_id: String,
+    val share_date: Date,
     val share_by: UserProfileModel,
     val shared_type: ReactionType,
     val shared_content: ShareContentModel,

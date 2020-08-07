@@ -1,5 +1,7 @@
 package com.kekod.jsonsample.data
 
+import java.util.*
+
 
 /**       Code with ❤  ´• ل •`   ❤
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -12,7 +14,10 @@ package com.kekod.jsonsample.data
  */
 data class CommentModel(
     val comment_id: String,
+    val comment_date: Date,
+    val comment_like_count: Int,
     val comment_value: String,
     val comment_by: UserProfileModel,
     val comment_to: String
+/* ,val comment_like_by_list : List<UserProfileModel> */
 )
