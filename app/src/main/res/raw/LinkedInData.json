@@ -1,0 +1,310 @@
+[
+  {
+    "share_id": "S454646464646",
+    "share_date": "07.08.2020 10:00",
+    "share_by": {
+      "user_id": "U54689843548",
+      "user_name": "Deneme",
+      "user_middle_name": "falan",
+      "user_surname": "filan",
+      "user_profile_img_url": "denemeurl.jpg",
+      "user_title": "İnsan"
+    },
+    "shared_type": "DIRECTSHARES",
+    "shared_content": {
+      "content_id": "CNT6181861616",
+      "content_type": "IMAGE",
+      "content_value_url_list": [
+        "deneme1.jpg",
+        "deneme2.png",
+        "deneme3.jpg"
+      ],
+      "header_text": "paylaşım ek metin falan filan",
+      "content_url": "paylasimkendilinki"
+    },
+    "reaction_info": [
+      {
+        "reaction_type": "LIKE",
+        "reaction_count": 3,
+        "reaction_by_list": [
+          {
+            "user_id": "U54689843548",
+            "user_name": "Deneme",
+            "user_middle_name": "falan",
+            "user_surname": "filan",
+            "user_profile_img_url": "denemeurl.jpg",
+            "user_title": "İnsan"
+          },
+          {
+            "user_id": "U54689843548",
+            "user_name": "Deneme",
+            "user_middle_name": "falan",
+            "user_surname": "filan",
+            "user_profile_img_url": "denemeurl.jpg",
+            "user_title": "İnsan"
+          },
+          {
+            "user_id": "U54689843548",
+            "user_name": "Deneme",
+            "user_middle_name": "falan",
+            "user_surname": "filan",
+            "user_profile_img_url": "denemeurl.jpg",
+            "user_title": "İnsan"
+          }
+        ]
+      },
+      {
+        "reaction_type": "COMMENT",
+        "reaction_count": 1,
+        "comment_list": [
+          {
+            "comment_id": "C4522556",
+            "comment_date": "07.08.2020 11.53",
+            "comment_like_count": 5,
+            "comment_value": "paylaşımını beğenmedim linkenin e uygun bulmadım çok bilmişim ben :D:D",
+            "comment_by": {
+              "user_id": "54689843548",
+              "user_name": "Deneme",
+              "user_middle_name": "falan",
+              "user_surname": "filan",
+              "user_profile_img_url": "denemeurl.jpg",
+              "user_title": "İnsan"
+            },
+            "comment_to": "S454646464646"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "share_id": "S454646464646",
+    "share_date": "07.08.2020 10:00",
+    "share_by": {
+      "user_id": "U54689843548",
+      "user_name": "Deneme",
+      "user_middle_name": "falan",
+      "user_surname": "filan",
+      "user_profile_img_url": "denemeurl.jpg",
+      "user_title": "İnsan"
+    },
+    "shared_type": "DIRECTSHARES",
+    "shared_content": {
+      "content_id": "CNT6181861616",
+      "content_type": "IMAGE",
+      "content_value_url_list": [
+        "deneme1.jpg",
+        "deneme2.png",
+        "deneme3.jpg"
+      ],
+      "header_text": "paylaşım ek metin falan filan",
+      "content_url": "paylasimkendilinki"
+    },
+    "reaction_info": [
+      {
+        "reaction_type": "LIKE",
+        "reaction_count": 3,
+        "reaction_by_list": [
+          {
+            "user_id": "U54689843548",
+            "user_name": "Deneme",
+            "user_middle_name": "falan",
+            "user_surname": "filan",
+            "user_profile_img_url": "denemeurl.jpg",
+            "user_title": "İnsan"
+          },
+          {
+            "user_id": "U54689843548",
+            "user_name": "Deneme",
+            "user_middle_name": "falan",
+            "user_surname": "filan",
+            "user_profile_img_url": "denemeurl.jpg",
+            "user_title": "İnsan"
+          },
+          {
+            "user_id": "U54689843548",
+            "user_name": "Deneme",
+            "user_middle_name": "falan",
+            "user_surname": "filan",
+            "user_profile_img_url": "denemeurl.jpg",
+            "user_title": "İnsan"
+          }
+        ]
+      },
+      {
+        "reaction_type": "COMMENT",
+        "reaction_count": 1,
+        "comment_list": [
+          {
+            "comment_id": "C4522556",
+            "comment_date": "07.08.2020 11.53",
+            "comment_like_count": 5,
+            "comment_value": "paylaşımını beğenmedim linkenin e uygun bulmadım çok bilmişim ben :D:D",
+            "comment_by": {
+              "user_id": "54689843548",
+              "user_name": "Deneme",
+              "user_middle_name": "falan",
+              "user_surname": "filan",
+              "user_profile_img_url": "denemeurl.jpg",
+              "user_title": "İnsan"
+            },
+            "comment_to": "S454646464646"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "share_id": "S454646464646",
+    "share_date": "07.08.2020 10:00",
+    "share_by": {
+      "user_id": "U54689843548",
+      "user_name": "Deneme",
+      "user_middle_name": "falan",
+      "user_surname": "filan",
+      "user_profile_img_url": "denemeurl.jpg",
+      "user_title": "İnsan"
+    },
+    "shared_type": "DIRECTSHARES",
+    "shared_content": {
+      "content_id": "CNT6181861616",
+      "content_type": "IMAGE",
+      "content_value_url_list": [
+        "deneme1.jpg",
+        "deneme2.png",
+        "deneme3.jpg"
+      ],
+      "header_text": "paylaşım ek metin falan filan",
+      "content_url": "paylasimkendilinki"
+    },
+    "reaction_info": [
+      {
+        "reaction_type": "LIKE",
+        "reaction_count": 3,
+        "reaction_by_list": [
+          {
+            "user_id": "U54689843548",
+            "user_name": "Deneme",
+            "user_middle_name": "falan",
+            "user_surname": "filan",
+            "user_profile_img_url": "denemeurl.jpg",
+            "user_title": "İnsan"
+          },
+          {
+            "user_id": "U54689843548",
+            "user_name": "Deneme",
+            "user_middle_name": "falan",
+            "user_surname": "filan",
+            "user_profile_img_url": "denemeurl.jpg",
+            "user_title": "İnsan"
+          },
+          {
+            "user_id": "U54689843548",
+            "user_name": "Deneme",
+            "user_middle_name": "falan",
+            "user_surname": "filan",
+            "user_profile_img_url": "denemeurl.jpg",
+            "user_title": "İnsan"
+          }
+        ]
+      },
+      {
+        "reaction_type": "COMMENT",
+        "reaction_count": 1,
+        "comment_list": [
+          {
+            "comment_id": "C4522556",
+            "comment_date": "07.08.2020 11.53",
+            "comment_like_count": 5,
+            "comment_value": "paylaşımını beğenmedim linkenin e uygun bulmadım çok bilmişim ben :D:D",
+            "comment_by": {
+              "user_id": "54689843548",
+              "user_name": "Deneme",
+              "user_middle_name": "falan",
+              "user_surname": "filan",
+              "user_profile_img_url": "denemeurl.jpg",
+              "user_title": "İnsan"
+            },
+            "comment_to": "S454646464646"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "share_id": "S454646464646",
+    "share_date": "07.08.2020 10:00",
+    "share_by": {
+      "user_id": "U54689843548",
+      "user_name": "Deneme",
+      "user_middle_name": "falan",
+      "user_surname": "filan",
+      "user_profile_img_url": "denemeurl.jpg",
+      "user_title": "İnsan"
+    },
+    "shared_type": "DIRECTSHARES",
+    "shared_content": {
+      "content_id": "CNT6181861616",
+      "content_type": "IMAGE",
+      "content_value_url_list": [
+        "deneme1.jpg",
+        "deneme2.png",
+        "deneme3.jpg"
+      ],
+      "header_text": "paylaşım ek metin falan filan",
+      "content_url": "paylasimkendilinki"
+    },
+    "reaction_info": [
+      {
+        "reaction_type": "LIKE",
+        "reaction_count": 3,
+        "reaction_by_list": [
+          {
+            "user_id": "U54689843548",
+            "user_name": "Deneme",
+            "user_middle_name": "falan",
+            "user_surname": "filan",
+            "user_profile_img_url": "denemeurl.jpg",
+            "user_title": "İnsan"
+          },
+          {
+            "user_id": "U54689843548",
+            "user_name": "Deneme",
+            "user_middle_name": "falan",
+            "user_surname": "filan",
+            "user_profile_img_url": "denemeurl.jpg",
+            "user_title": "İnsan"
+          },
+          {
+            "user_id": "U54689843548",
+            "user_name": "Deneme",
+            "user_middle_name": "falan",
+            "user_surname": "filan",
+            "user_profile_img_url": "denemeurl.jpg",
+            "user_title": "İnsan"
+          }
+        ]
+      },
+      {
+        "reaction_type": "COMMENT",
+        "reaction_count": 1,
+        "comment_list": [
+          {
+            "comment_id": "C4522556",
+            "comment_date": "07.08.2020 11.53",
+            "comment_like_count": 5,
+            "comment_value": "paylaşımını beğenmedim linkenin e uygun bulmadım çok bilmişim ben :D:D",
+            "comment_by": {
+              "user_id": "54689843548",
+              "user_name": "Deneme",
+              "user_middle_name": "falan",
+              "user_surname": "filan",
+              "user_profile_img_url": "denemeurl.jpg",
+              "user_title": "İnsan"
+            },
+            "comment_to": "S454646464646"
+          }
+        ]
+      }
+    ]
+  }
+]
