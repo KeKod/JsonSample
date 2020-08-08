@@ -5,5 +5,5 @@ data class Reaction(
     private val reactionLikeCount: Int,
     private val reactionClapCount: Int,
     private val reactionFavCount: Int,
-    private val reactionDetails: List<ReactionDetail>
+    private val reactionDetails: List<ReactionDetails>
 )
