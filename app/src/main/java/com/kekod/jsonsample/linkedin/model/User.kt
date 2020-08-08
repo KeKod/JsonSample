@@ -1,9 +1,9 @@
 package com.kekod.jsonsample.linkedin.model
 
-data class User(
-    private val userId: Int,
-    private val userName: String,
-    private val userImageUrl: String,
-    private val userDescription: String,
-    private val userSubDescription: String
-)
+open class User {
+    val userId: Int = 0
+    val userName: String = ""
+    val userImageUrl: String = ""
+    val userDescription: String = ""
+    val userSubDescription: String = ""
+}
